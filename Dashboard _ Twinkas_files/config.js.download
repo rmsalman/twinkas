@@ -1,0 +1,1 @@
+url_root='https://twinkas.com/';loading_dir='img/loader.gif';loading_combiner='<img src="'+ url_root+ loading_dir+'" />';loading_dir_horizontal='img/loader.gif';loading_combiner_horizontal='<img src="'+ url_root+ loading_dir_horizontal+'" />';
